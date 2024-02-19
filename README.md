@@ -26,6 +26,7 @@
 Figma: https://www.figma.com/file/d96pDq3NxTMVAUOijOZEPM/U-test?type=design&node-id=0%3A1&mode=design&t=geljAVmJu23ntvWG-1
 
 <h2> 📸 Screenshots </h2>
+
 <img width="416" alt="image" src="https://github.com/SER0021/myCar/assets/95776133/71da533e-e75e-4962-97a5-c7b581055da2">
 <img width="416" alt="image" src="https://github.com/SER0021/myCar/assets/95776133/89b98166-6c4c-438d-90b0-c48c743bf2ca">
 <img width="416" alt="image" src="https://github.com/SER0021/myCar/assets/95776133/eae5052e-656a-4635-b08f-6c454f4112a3">
